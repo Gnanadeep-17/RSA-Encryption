@@ -65,5 +65,5 @@ int gcd(int a,int b){
         r=a%b;
         b=r;
     }
-    return r;
+    return a;
 }
